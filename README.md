@@ -21,10 +21,10 @@ No entanto, se você estiver usando este projeto e estiver satisfeito com ele ou
 ### **1. Faça Download do aplicativo na sua máquina, escolhe entre a Versão com instalador ou a versão Portable:**
 
 * [Baixar Versão com instalador](https://thegoldenteam.live/weblurk)
-* [Baixar Versão Portable](https://github.com/danielnerytondo/SysBrowserWL_TGT/releases/tag/SysBrowserWL_TGT_V1.0.0.33)
+* [Baixar Versão Portable](https://github.com/danielnerytondo/SysBrowserWL_TGT/releases/tag/TGT_SysBrowserWL10033p)
 * Caso escolha a versao Portable, crie uma pasta no seu computador para esse programa, recomendo colocar o nome **Sys_weblurk**
 * Descompacte o arquivo baixado na pasta criada
-* Abra a pasta  e seleciona `TGT_weblurk10033.exe` e pressione `enter` para execultar
+* Abra a pasta  e seleciona `TGT_WebLurk.exe` e pressione `enter` para execultar
 
 ### **2. Caso seja necessário Instale as ferramentas necessárias.**
 
