@@ -12,7 +12,7 @@ O **Sys Web Browser TGT** é um navegador de Lurk especializado, baseado em WebV
 
 ## ❤️ Apoie o projeto
 
-Este projeto é desenvolvido por uma só pessoal, e mantido com dedicação constante para melhorias e correções de bugs. Ele é gratuito para uso, se este APP de Lurk esta sendo útil para você, considere apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido por uma só pessoa, e mantido com dedicação constante para melhorias e correções de bugs. Ele é gratuito para uso, se este APP de Lurk esta sendo útil para você, considere apoiar o desenvolvimento contínuo:
 
 * 💰 **[Livepix](https://livepix.gg/maddaniel1):** Doação via LivePix
 
