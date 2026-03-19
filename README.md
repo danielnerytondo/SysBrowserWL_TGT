@@ -38,7 +38,7 @@ O sistema conta com um monitor de integridade em tempo real:
 ## 🚀 Como Executar
 
 ### 1. Download
-* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_TGT/releases/tag/TGT_SysBrowserWL10033p)**
+* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_TGT/releases/tag/v2.0.1.0)**
 
 
 ### 2. Requisitos Obrigatórios
@@ -52,4 +52,4 @@ O sistema conta com um monitor de integridade em tempo real:
 * Otimização de carregamento de customizações.
 
 ---
-**Desenvolvido por Daniel Nery Tondo**
+**Desenvolvido por [Daniel Nery Tondo](https://sysweblurk.com.br/)**
